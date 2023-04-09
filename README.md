@@ -1,1 +1,1 @@
-https://zenn.dev/haretokidoki/articles/XXXX
+https://zenn.dev/haretokidoki/articles/a77765dd56f202
