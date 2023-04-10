@@ -1,6 +1,6 @@
 <!-- https://learn.microsoft.com/ja-jp/dotnet/standard/linq/sample-xml-file-typical-purchase-order -->
 <?xml version="1.0" encoding="UTF-8"?>
-<PurchaseOrder PurchaseOrderNumber="99503" Remarks="", OrderDate="1999-10-20" SystemVersion="1.0">
+<PurchaseOrder PurchaseOrderNumber="99503" Remarks="" OrderDate="1999-10-20" SystemVersion="1.0">
   <Address Type="Shipping">
     <Name>Ellen Adams</Name>
     <Street>123 Maple Street</Street>
